@@ -1,5 +1,5 @@
 # Coffee Sales Data Analysis
-
+https://www.kaggle.com/code/koseomer/aygazverianalizi
 ## Proje Tanıtımı
 
 Bu proje, **Kaggle**'da yer alan **Coffee Sales** veri setini kullanarak bir dizi veri analizi işlemi yapmayı amaçlamaktadır. Veri seti, bir kahve dükkanının satış işlemleri hakkında çeşitli bilgiler içermektedir. Bu analizde, satış miktarı, ürün fiyatı ve toplam işlem değeri gibi sayısal veriler ile kategorik veriler kullanılarak çeşitli görselleştirmeler yapılmıştır.
