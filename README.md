@@ -63,10 +63,3 @@ Veri seti, Kaggle üzerinden elde edilmiştir. İlgili kaynak: [Coffee Sales Dat
 - **Zaman Serisi Grafiği**: Zamanla satış miktarı ve birim fiyatındaki değişimi gösterdik.
 - **Bar Graph**: Ürün kategorilerine göre ortalama toplam satış değerlerini görselleştirdik.
 
-## Kurulum ve Çalıştırma
-
-1. **Gerekli Kütüphanelerin Kurulumu**:
-   Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerinin yüklü olması gerekir:
-
-   ```bash
-   pip install pandas matplotlib seaborn
